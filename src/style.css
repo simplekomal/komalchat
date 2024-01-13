@@ -1,0 +1,7 @@
+/* styles.css or your stylesheet */
+@media (min-width: 768px) {
+    .background-image-container {
+      background-position: center;
+      height: 600px; /* Adjust height for larger screens */
+    }
+  }
